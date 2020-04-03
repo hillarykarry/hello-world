@@ -1,2 +1,3 @@
 # hello-world
 Practice GitHub
+This is where I would write a little bit about myself...
